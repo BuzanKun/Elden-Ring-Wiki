@@ -1,0 +1,276 @@
+<resources>
+    <string name="app_name">Elden Ring Wiki</string>
+    <string name="remembrances">Remembrances</string>
+    <string name="item_image">Item Image</string>
+    <string name="obtained_by_defeating">Obtained by Defeating :</string>
+    <string name="boss_name">Boss Name</string>
+    <string name="sold_for">Sold for :</string>
+    <string name="rune">Rune</string>
+    <string name="trade_for">Trade for :</string>
+    <string name="weapon_choice_1">Weapon Choice 1</string>
+    <string name="weapon_choice_2">Weapon Choice 2</string>
+    <string name="remembrances_description">Remembrances Description</string>
+    <string name="about">About</string>
+    <string name="my_name">Muhammad Rizky Ramadhani</string>
+    <string name="my_email">muhrizkyram@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="remembrances_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="remembrances_name">
+        <item>Remembrance of the Grafted</item>
+        <item>Remembrance of the Full Moon Queen</item>
+        <item>Remembrance of the Starscourge</item>
+        <item>Remembrance of the Blasphemous</item>
+        <item>Remembrance of the Regal Ancestor</item>
+        <item>Remembrance of the Lichdragon</item>
+        <item>Remembrance of the Omen King</item>
+        <item>Remembrance of the Naturalborn</item>
+        <item>Remembrance of the Fire Giant</item>
+        <item>Remembrance of the Dragonlord</item>
+        <item>Remembrance of the Black Blade</item>
+        <item>Remembrance of the Hoarah Loux</item>
+        <item>Remembrance of the Blood Lord</item>
+        <item>Remembrance of the Rot Goddess</item>
+        <item>Elden Remembrance</item>
+    </string-array>
+
+    <string-array name="remembrances_description">
+        <item>
+            Remembrance of Godrick, the Grafted, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            A feeble man sought power through the grotesque act of grafting. "One day well return together, to our home, bathed in rays of gold."
+        </item>
+        <item>
+            Remembrance of Rennala, Queen of the Full Moon, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            In her youth, Rennala was a prominent champion who charmed the academy with her lunar magic, becoming its master. She also led the Glintstone Knights and established the house of Caria as royalty.
+        </item>
+        <item>
+            Remembrance of Starscourge Radahn, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            The Red Lion General wielded gravitational powers which he learned in Sellia during his younger days. All so he would never have to abandon his beloved but scrawny steed.
+        </item>
+        <item>
+            Remembrance of Rykard, Lord of Blasphemy, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Rykard took the form of a giant serpent that he might devour, grow, and live eternally. "I understand. The road of blasphemy is long and perilous. One cannot walk it unprepared to sin."
+        </item>
+        <item>
+            Remembrance of the Regal Ancestor Spirit, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Ancestral spirits exist as a phenomenon beyond the purview of the Erdtree.\n
+            Life sprouts from death, as it does from birth.\n
+            Such is the way of the living.
+        </item>
+        <item>
+            Remembrance of Lichdragon Fortissax, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            After Godwyn the Golden became the Prince of Death, the ancient dragon fought long and hard against the Death within its companion. Alas, victory was never achieved and its only reward was corruption.
+        </item>
+        <item>
+            Remembrance of Morgott, the Omen King, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Though born one of the graceless Omen, Morgott took it upon himself to become the Erdtrees protector. He loved not in return, for he was never loved, but nevertheless, love it he did.
+        </item>
+        <item>
+            Remembrance of Astel, Naturalborn of the Void, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            A malformed star born in the flightless void far away. Once destroyed an Eternal City and took away their sky. A falling star of ill omen.
+        </item>
+        <item>
+            Remembrance of Fire Giant, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            The Fire Giant is a survivor of the War against the Giants.\n
+            Upon realizing the flames of their forge would never die,\n
+            Queen Marika marked him with a curse.
+            \n\n
+            "O trifling giant, mayest thou tend thy flame for eternity."
+        </item>
+        <item>
+            Remembrance of Dragonlord Placidusax, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            The Dragonlord whose seat lies at the heart of the storm beyond time\n
+            is said to have been Elden Lord in the age before the Erdtree.\n
+            Once his god was fled, the lord continued to await its return.
+        </item>
+        <item>
+            Remembrance of Maliketh, the Black Blade, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Maliketh was a shadowbound beast given to his Empyrean.\n
+            Marikas sole need of her shadow was a vessel to lock away Destined Death.\n
+            Even then, she betrayed him.
+        </item>
+        <item>
+            Remembrance of the warrior Hoarah Loux, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            When Godfrey, first Elden Lord was robbed of his grace, becoming Tarnished, he took with him his kinfolk and left the Lands Between. After the Long March of the Tarnished came to an end, Godfrey divested himself of kingship, becoming a simple warrior once more.
+        </item>
+        <item>
+            Remembrance of Mohg, Lord of Blood, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Wishing to raise Miquella to full godhood, Mohg wished to become his consort, taking the role of monarch. But no matter how much of his bloody bedchamber he tried to share, he received no response from the young Empyrean.
+        </item>
+        <item>
+            Remembrance of Malenia, Goddess of Rot, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            Miquella and Malenia are both the children of a single god. As such they are both Empyreans, but suffered afflictions from birth. One was cursed with eternal childhood, and the other harbored rot within.
+        </item>
+        <item>
+            Remembrance of the Elden Beast, hewn into the Erdtree.
+            \n\n
+            The power of its namesake can be unlocked by the Finger Reader.\n
+            Alternatively, it can be used to gain a great bounty of runes.
+            \n\n
+            It was the vassal beast of the Greater Will and living incarnation of the concept of Order.
+        </item>
+    </string-array>
+
+    <string-array name="remembrances_boss">
+        <item>Godrick the Grafted</item>
+        <item>Rennala, Queen of the Full Moon</item>
+        <item>Starscourge Radahn</item>
+        <item>Rykard, Lord of Blasphemy</item>
+        <item>Regal Ancestor Spirit</item>
+        <item>Lichdragon Fortissax</item>
+        <item>Morgott the Omen King</item>
+        <item>Astra, Naturalborn of the Void</item>
+        <item>Fire Giant</item>
+        <item>Dragonlord Placidusax</item>
+        <item>Maliketh, The Black Blade</item>
+        <item>Godfrey, First Elden Lord</item>
+        <item>Mohg, Lord of Blood</item>
+        <item>Malenia, Blade of Miquella</item>
+        <item>Elden Beast</item>
+    </string-array>
+
+    <string-array name="remembrances_photo">
+        <item>@drawable/remembrance_of_grafted</item>
+        <item>@drawable/remembrance_of_the_full_moon_queen</item>
+        <item>@drawable/remembrance_of_the_starscourge</item>
+        <item>@drawable/remembrance_of_the_blasphemous</item>
+        <item>@drawable/remembrance_of_the_regal_ancestor</item>
+        <item>@drawable/remembrance_of_the_lichdragon</item>
+        <item>@drawable/remembrance_of_the_omen_king</item>
+        <item>@drawable/remembrance_of_the_naturalborn</item>
+        <item>@drawable/remembrance_of_the_fire_giant</item>
+        <item>@drawable/remembrance_of_the_dragonlord</item>
+        <item>@drawable/remembrance_of_the_black_blade</item>
+        <item>@drawable/remembrance_of_hoarah_loux</item>
+        <item>@drawable/remembrance_of_the_blood_lord</item>
+        <item>@drawable/remembrance_of_the_rot</item>
+        <item>@drawable/elden_remembrance</item>
+    </string-array>
+
+    <string-array name="remembrances_rune">
+        <item>20,000</item>
+        <item>20,000</item>
+        <item>40,000</item>
+        <item>50,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>30,000</item>
+        <item>50,000</item>
+        <item>50,000</item>
+    </string-array>
+
+    <string-array name="remembrances_weapon1">
+        <item>Weapon: Axe of Godrick</item>
+        <item>Sorcery: Rennalas Full Moon</item>
+        <item>Weapon: Starscourge Greatsword</item>
+        <item>Sorcery: Rykards Rancor</item>
+        <item>Weapon: Winged Greathorn</item>
+        <item>Incantation: Fortissaxs Lightning Spear</item>
+        <item>Weapon: Morgotts Cursed Sword</item>
+        <item>Ash of War: Waves of Darkness</item>
+        <item>Weapon: Giants Red Braid</item>
+        <item>Weapon: Dragon Kings Cragblade</item>
+        <item>Weapon: Malikeths Black Blade</item>
+        <item>Weapon: Axe of Godfrey</item>
+        <item>Incantation: Bloodboon</item>
+        <item>Weapon: Hand of Malenia</item>
+        <item>Weapon: Marikas Hammer</item>
+    </string-array>
+
+    <string-array name="remembrances_weapon2">
+        <item>Weapon: Grafted Dragon</item>
+        <item>Weapon: Carian Regal Scepter</item>
+        <item>Weapon: Lion Greatbow</item>
+        <item>Weapon: Blasphemous Blade</item>
+        <item>Talisman: Ancestral Spirits Horn</item>
+        <item>Incantation: Death Lightning</item>
+        <item>Tool: Regal Omen Bairn</item>
+        <item>Weapon: Bastards Stars</item>
+        <item>Incantation: Burn o Flame!</item>
+        <item>Incantation: Placidusaxs Ruin</item>
+        <item>Incantation: Black Blade</item>
+        <item>Ash of War: Hoarah Louxs Earthshaker</item>
+        <item>Weapon: Mohgwyns Sacred Spear</item>
+        <item>Incantation: Scarlet Aeonia</item>
+        <item>Weapon: Sacred Relic Sword</item>
+    </string-array>
+</resources>

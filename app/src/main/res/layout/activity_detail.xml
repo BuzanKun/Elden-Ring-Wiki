@@ -1,0 +1,90 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp"
+    tools:context=".DetailActivity"
+    android:background="@drawable/elden_ring_wallpaper_dark">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_title"
+            android:text="@string/remembrances"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:layout_margin="8dp"
+            android:textStyle="italic|bold"
+            android:textAllCaps="false"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <View
+            android:id="@+id/view_line"
+            style="@style/HorizontalLine"
+            app:layout_constraintTop_toBottomOf="@+id/tv_title"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:viewBindingIgnore="true"/>
+
+        <ImageView
+            android:id="@+id/iv_remembrances"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/item_image"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/view_line"
+            tools:ignore="ImageContrastCheck" />
+
+        <View
+            android:id="@+id/view_line2"
+            style="@style/VerticalLine"
+            app:layout_constraintTop_toBottomOf="@id/iv_remembrances"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="@id/tv_remembrances_description"/>
+
+        <TextView
+            android:id="@+id/tv_remembrances_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@string/remembrances_description"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@id/view_line2"
+            app:layout_constraintTop_toBottomOf="@id/iv_remembrances"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <include
+            android:id="@+id/include_remembrance_detail"
+            layout="@layout/layout_remembrance_detail"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            app:layout_constraintTop_toBottomOf="@id/tv_remembrances_description"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <Button
+            android:id="@+id/action_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@android:drawable/ic_menu_share"
+            android:backgroundTint="#E6202020"
+            android:text="@string/share"
+            android:textColor="@color/white"
+            android:layout_margin="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/include_remembrance_detail"
+            app:layout_constraintEnd_toEndOf="parent"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

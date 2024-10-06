@@ -1,0 +1,33 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EldenRingWiki" parent="Theme.Material3.Dark">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/cinzel</item>
+    </style>
+
+    <style name="Theme.EldenRingWiki" parent="Base.Theme.EldenRingWiki" />
+
+    <style name="EldenRingWiki.Splash" parent="Theme.EldenRingWiki">
+        <item name="android:windowBackground">@drawable/elden_ring_logo</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="HorizontalLine">
+        <item name="android:background">@android:color/background_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+    <style name="VerticalLine">
+        <item name="android:background">@android:color/background_light</item>
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
